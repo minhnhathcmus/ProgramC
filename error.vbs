@@ -1,0 +1,1 @@
+x=msgbox("Da xay ra loi, vui long thu lai sau", 0, "Thong bao")

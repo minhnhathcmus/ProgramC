@@ -1,0 +1,6 @@
+﻿  UseTime.cpp
+C:\Users\ACER\source\repos\ProgramC\ProgramC\UseTime.cpp(216,6): warning C4101: 'minute': unreferenced local variable
+C:\Users\ACER\source\repos\ProgramC\ProgramC\UseTime.cpp(214,6): warning C4101: 'pos': unreferenced local variable
+C:\Users\ACER\source\repos\ProgramC\ProgramC\UseTime.cpp(215,6): warning C4101: 'hour': unreferenced local variable
+C:\Users\ACER\source\repos\ProgramC\ProgramC\UseTime.cpp(271,20): warning C4018: '<': signed/unsigned mismatch
+  ProgramC.vcxproj -> C:\Users\ACER\source\repos\ProgramC\Debug\ProgramC.exe
